@@ -1,0 +1,22 @@
+
+<h1 class="p-4 text-white text-center">Agregar video</h1>
+
+<html>
+<head>
+    
+</head>
+
+<body>
+    <form action="/Curso/AgregarVideoAlCursoForm?Idvideo=@ViewBag.IdVideo" method="post">
+        <div class="form-group">
+            <input class="form-control" type="text" name="Video" placeholder="ingrese el link del video de youtube" />
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Agregar</button>
+            <a href='javascript:history.go(-1)' class="btn btn-danger">Cancelar</a>
+        </div>
+
+    </form>
+</body>
+</html>

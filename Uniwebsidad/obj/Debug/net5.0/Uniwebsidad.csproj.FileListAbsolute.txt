@@ -1,0 +1,351 @@
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\appsettings.Development.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\appsettings.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.exe
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.deps.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.dev.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\ref\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\EntityFramework.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\System.CodeDom.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csprojAssemblyReference.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfoInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CoreCompileInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.MvcApplicationPartsAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.Manifest.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.xml
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\scopedcss\bundle\Uniwebsidad.styles.css
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.input.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.output.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorCoreGenerate.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCursoLogout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursos.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursosLogout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CopyComplete
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\ref\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.genruntimeconfig.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\appsettings.Development.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\appsettings.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.exe
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.deps.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.dev.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\ref\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\EntityFramework.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.CodeDom.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csprojAssemblyReference.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfoInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CoreCompileInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.MvcApplicationPartsAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.Manifest.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.xml
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\scopedcss\bundle\Uniwebsidad.styles.css
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.input.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.output.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorCoreGenerate.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCursoLogout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursos.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursosLogout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CopyComplete
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\ref\Uniwebsidad.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.genruntimeconfig.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniwebsidad\Uniwebsidad\bin\Debug\net5.0\System.Text.Json.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\appsettings.Development.json
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\appsettings.json
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.exe
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.deps.json
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.json
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.dev.json
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\ref\Uniwebsidad.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\EntityFramework.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.CodeDom.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Text.Json.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csprojAssemblyReference.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfoInputs.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfo.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CoreCompileInputs.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.MvcApplicationPartsAssemblyInfo.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.Manifest.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.xml
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\scopedcss\bundle\Uniwebsidad.styles.css
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.input.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.output.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorCoreGenerate.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCursoLogout.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursos.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursosLogout.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.Views.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CopyComplete
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\ref\Uniwebsidad.dll
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.pdb
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.genruntimeconfig.cache
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Auth\Registrar.cshtml.g.cs
+C:\upn\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\EditarCurso.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\appsettings.json
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.exe
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.deps.json
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.json
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.runtimeconfig.dev.json
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\ref\Uniwebsidad.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Uniwebsidad.Views.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.AssemblyReference.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfoInputs.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.AssemblyInfo.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CoreCompileInputs.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorAssemblyInfo.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.Manifest.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\staticwebassets\Uniwebsidad.StaticWebAssets.xml
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\scopedcss\bundle\Uniwebsidad.styles.css
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.input.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.TagHelpers.output.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorCoreGenerate.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Auth\Registrar.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\DetalleCursoLogout.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\EditarCurso.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursos.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursosLogout.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cache
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.RazorTargetAssemblyInfo.cs
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.Views.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.csproj.CopyComplete
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\ref\Uniwebsidad.dll
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.pdb
+C:\Users\mE\Desktop\uniwebsidad-master\Uniwebsidad\obj\Debug\net5.0\Uniwebsidad.genruntimeconfig.cache
