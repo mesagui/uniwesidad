@@ -1,14 +1,13 @@
 {
   "name": "calidadfinal",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mesagui/uniwesidad.git"
+    "url": "git+https://github.com/mesagui/uniwesidad.git"
   },
   "author": "",
   "license": "ISC",
@@ -18,5 +17,6 @@
   "homepage": "https://github.com/mesagui/uniwesidad.git#readme",
   "devDependencies": {
     "cypress": "^7.2.0"
-  }
+  },
+  "description": ""
 }
