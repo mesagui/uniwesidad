@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gRVs7eXPtWI7/QuPFusPht78MmKf6hgkxBnRm570F00UGcWs43BPBmxBndUsydA5RbdYvE5fGMIohjeTytb0/A==",
+  "dgSpecHash": "VQ2Te/MfqxmB2IOPQBuAAB1pzrThun4hAM0DGPaGzW/RBH5xz4h9di7y1E6yzYS8DD1E2KfKJreyxAGN6X1WJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\Uniwebsidad\\Uniwebsidad.csproj",
+  "projectFilePath": "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\Uniwebsidad\\Uniwebsidad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mE\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\mE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

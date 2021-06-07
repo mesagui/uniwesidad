@@ -7663,11 +7663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\UniwebsidadTests\\UniwebsidadTests.csproj",
+      "projectUniqueName": "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\UniwebsidadTests\\UniwebsidadTests.csproj",
       "projectName": "UniwebsidadTests",
-      "projectPath": "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\UniwebsidadTests\\UniwebsidadTests.csproj",
+      "projectPath": "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\UniwebsidadTests\\UniwebsidadTests.csproj",
       "packagesPath": "C:\\Users\\mE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\UniwebsidadTests\\obj\\",
+      "outputPath": "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\UniwebsidadTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7684,8 +7684,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\Uniwebsidad\\Uniwebsidad.csproj": {
-              "projectPath": "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\Uniwebsidad\\Uniwebsidad.csproj"
+            "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\Uniwebsidad\\Uniwebsidad.csproj": {
+              "projectPath": "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\Uniwebsidad\\Uniwebsidad.csproj"
             }
           }
         }

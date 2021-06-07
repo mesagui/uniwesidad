@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCmn6GI/avFSrmOybPW/PF/OwuXsHULASIQMdEQNHs62hL68FOjVUNQLJVtdRHW56BP7+4YtaV7avbWwAItnaA==",
+  "dgSpecHash": "+VdWZWS2XILL/mTYQLIzZG42NwNWZf3cSykQmFGdj/KG0MNCHpnYpy9M6EWO0UDvoGyeSY9mDfADYLzsTG/8jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mE\\Desktop\\uniwebsidad-master\\UniwebsidadTests\\UniwebsidadTests.csproj",
+  "projectFilePath": "D:\\U\\Calidad y Pruebas de Software\\Proyecto\\uniwebsidad\\UniwebsidadTests\\UniwebsidadTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mE\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\mE\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
