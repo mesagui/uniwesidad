@@ -47,20 +47,39 @@ namespace Uniwebsidad.Controllers
             return View();
         }
 
+
+        
         public IActionResult CrearCursoInterface()
         {
+
             Usuario user = LoggedUser();
             ViewBag.UsuarioId = user.Id;
             ViewBag.Categorias = _categoria.Categorias();
+
+            //ViewBag.Validation = "Campos requeridos";
+
             return View();
         }
 
-        public IActionResult CrearCursoForm(String Curso,int categoria)
+
+        
+        public IActionResult CrearCursoForm(String Curso, int categoria)
         {
+            
+            if (Curso == null )
+            {
+                //ViewBag.Validation = "No se creo el curso";
+
+                return RedirectToAction("CrearCursoInterface");
+            }
+
             Usuario user = LoggedUser();
             ViewBag.UsuarioId = user.Id;
             _curso.CrearCurso(Curso, categoria, user);
             //if (CursoCreado.IdCategoria == 0) HttpContext.Response.StatusCode = 500;
+
+            HttpContext.Response.StatusCode = 200;
+
             return RedirectToAction("CursosCreadosPorUsuario", "Curso");
         }
 
